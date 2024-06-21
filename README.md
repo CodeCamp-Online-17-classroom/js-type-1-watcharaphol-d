@@ -9,3 +9,7 @@ let a = undefined;
 let b = 2;
 let c = a++;
 ```
+
+### Homework Finished 21/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
